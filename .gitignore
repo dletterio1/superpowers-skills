@@ -14,3 +14,4 @@ Thumbs.db
 
 # Node modules (for remembering-conversations tool)
 node_modules/
+config.bat
